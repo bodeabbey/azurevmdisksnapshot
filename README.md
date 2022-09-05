@@ -1,8 +1,8 @@
 A powershell script to automate daily snapshot of vm disk and or attached disk on azure using azure automation.
 - List of module to install
-      * Az.Resources
-      * Az.Storage
-      * Azure
+      - Az.Resources
+      - Az.Storage
+      - Azure
       * Azure.Storage
       * AzureRM.Automation
       * AzureRM.Compute
